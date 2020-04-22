@@ -1,0 +1,4 @@
+
+public enum Categoria {
+	CALZADO,PARTE_INFERIOR_PARTE_SUPERIOR
+}
